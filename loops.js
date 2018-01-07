@@ -22,11 +22,12 @@ function whileLoop(n){
 }
 
 // It worked!
-
-function doWhileLoop(array){
-  function maybeTrue() {
+function maybeTrue() {
   return Math.random() >= 0.5 // Returns a random number between 0 (inclusive) and 1 (exclusive)
 }
+
+function doWhileLoop(array){
+  
  do{
    array.shift;
  } while (array.length > 0 && maybeTrue());
