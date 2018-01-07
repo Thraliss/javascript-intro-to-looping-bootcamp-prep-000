@@ -17,4 +17,5 @@ function whileLoop(n){
     //This should count from n, and go down from there I think?
     
   }
+  return 'done';
 }
