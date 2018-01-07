@@ -14,6 +14,7 @@ function forLoop(array){
 function whileLoop(n){
   //We're going to count down from 'n'
   for (n; n > 0; n--){
+    console.log(n);
     //This should count from n, and go down from there I think?
     
   }
