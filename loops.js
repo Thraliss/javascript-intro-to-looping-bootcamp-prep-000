@@ -22,3 +22,7 @@ function whileLoop(n){
 }
 
 // It worked!
+
+function doWhileLoop(){
+  return;
+}
