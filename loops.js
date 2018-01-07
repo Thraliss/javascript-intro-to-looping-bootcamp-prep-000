@@ -9,3 +9,12 @@ function forLoop(array){
   }
   return array;
 }
+
+
+function whileLoop(n){
+  //We're going to count down from 'n'
+  for (n; n > 0; n--){
+    //This should count from n, and go down from there I think?
+    
+  }
+}
