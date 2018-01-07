@@ -31,5 +31,5 @@ function doWhileLoop(array){
    array.shift;
  } while (maybeTrue() === true)
  
- } return;
+ } return array;
 }
