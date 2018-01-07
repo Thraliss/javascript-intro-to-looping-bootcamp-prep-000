@@ -3,4 +3,5 @@ function forLoop(array){
     array.shift(`"I am ${i} strange loops."`);
     
   }
+  return array;
 }
